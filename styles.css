@@ -1,0 +1,23 @@
+
+header{
+    background-color: blue;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+    
+
+ 
+img{
+
+    border-radius: 60px;
+}
+footer{
+    font-weight: bold;
+    background-color: brown;
+}
+
+section{
+background-color: blueviolet;
+}
